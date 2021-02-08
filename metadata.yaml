@@ -1,0 +1,23 @@
+_repo: Zur-Mannerfrage_64484
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Schachne, Clara Caroline
+    gutenberg_agent_id: '52924'
+    url: http://www.gutenberg.org/2009/agents/52924
+  - agent_name: Schott, Clara
+    gutenberg_agent_id: '52923'
+    url: http://www.gutenberg.org/2009/agents/52923
+description: ''
+gutenberg_issued: '2021-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64484'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Zur Männerfrage!
+url: http://www.gutenberg.org/ebooks/64484
