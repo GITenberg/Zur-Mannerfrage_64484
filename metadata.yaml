@@ -1,5 +1,8 @@
 _repo: Zur-Mannerfrage_64484
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64484-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Schachne, Clara Caroline
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52923'
     url: http://www.gutenberg.org/2009/agents/52923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64484#Zur-Mannerfrage
 gutenberg_issued: '2021-02-07'
 gutenberg_type: Text
 identifiers:
